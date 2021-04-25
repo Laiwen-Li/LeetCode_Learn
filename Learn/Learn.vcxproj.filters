@@ -19,6 +19,9 @@
     <Filter Include="源文件\力扣\简单">
       <UniqueIdentifier>{7129aa4a-88c0-4df7-afce-8d5c0b0a4f94}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\力扣\中等">
+      <UniqueIdentifier>{dd45909e-a5d2-42c6-9e1d-11e2e500fd7d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="7.整数反转.cpp">
@@ -40,6 +43,33 @@
       <Filter>源文件\力扣\简单</Filter>
     </ClCompile>
     <ClCompile Include="455.分发饼干.cpp">
+      <Filter>源文件\力扣\简单</Filter>
+    </ClCompile>
+    <ClCompile Include="167.两数之和II-输入有序数组.cpp">
+      <Filter>源文件\力扣\简单</Filter>
+    </ClCompile>
+    <ClCompile Include="88.新建两个有序数组.cpp">
+      <Filter>源文件\力扣\简单</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件\力扣\简单</Filter>
+    </ClCompile>
+    <ClCompile Include="435.无重叠区间.cpp">
+      <Filter>源文件\力扣\中等</Filter>
+    </ClCompile>
+    <ClCompile Include="605.种花问题.cpp">
+      <Filter>源文件\力扣\简单</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="452. 用最少数量的箭引爆气球.cpp">
+      <Filter>源文件\力扣\中等</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="面试题03.01.三合一.cpp">
       <Filter>源文件\力扣\简单</Filter>
     </ClCompile>
   </ItemGroup>

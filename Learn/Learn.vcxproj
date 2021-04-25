@@ -24,6 +24,7 @@
     <ProjectGuid>{b87a3027-209f-4ce3-a049-89ae46f4e2a9}</ProjectGuid>
     <RootNamespace>Learn</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>LeetCode_Learn</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,12 +141,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="13.罗马数字转整数.cpp" />
+    <ClCompile Include="167.两数之和II-输入有序数组.cpp" />
     <ClCompile Include="26.删除有序数组中的重复项.cpp" />
     <ClCompile Include="27.移除元素.cpp" />
     <ClCompile Include="35.搜索插入位置.cpp" />
+    <ClCompile Include="435.无重叠区间.cpp" />
+    <ClCompile Include="452. 用最少数量的箭引爆气球.cpp" />
     <ClCompile Include="455.分发饼干.cpp" />
+    <ClCompile Include="605.种花问题.cpp" />
     <ClCompile Include="7.整数反转.cpp" />
+    <ClCompile Include="88.新建两个有序数组.cpp" />
     <ClCompile Include="9.回文数.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="test2.cpp" />
+    <ClCompile Include="源.cpp" />
+    <ClCompile Include="面试题03.01.三合一.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
