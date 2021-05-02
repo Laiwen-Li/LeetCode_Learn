@@ -23,7 +23,6 @@ ostream& operator<<(ostream& os, list<T> vect) {
     return os;
 }
 
-
 /*int main() {
     vector<int> p = { 4, 5, 6, 2, 3, 7 };
     std::sort(p.begin(), p.end());

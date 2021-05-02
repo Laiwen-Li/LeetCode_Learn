@@ -22,6 +22,12 @@
     <Filter Include="源文件\力扣\中等">
       <UniqueIdentifier>{dd45909e-a5d2-42c6-9e1d-11e2e500fd7d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\力扣\面试题">
+      <UniqueIdentifier>{54776a54-ab14-4d10-9e91-b0a5065cc8be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\力扣\面试题\简单">
+      <UniqueIdentifier>{295b62b4-5a9f-4420-8f6d-b342611d2cf5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="7.整数反转.cpp">
@@ -71,6 +77,12 @@
     </ClCompile>
     <ClCompile Include="面试题03.01.三合一.cpp">
       <Filter>源文件\力扣\简单</Filter>
+    </ClCompile>
+    <ClCompile Include="21.合并两个有序链表.cpp">
+      <Filter>源文件\力扣\简单</Filter>
+    </ClCompile>
+    <ClCompile Include="03.04.化栈为队.cpp">
+      <Filter>源文件\力扣\面试题\简单</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
